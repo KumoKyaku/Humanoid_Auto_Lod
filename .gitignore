@@ -1,0 +1,8 @@
+Library/
+Humanoid_Auto_Lod.Editor.Plugins.csproj
+Humanoid_Auto_Lod.Plugins.csproj
+Humanoid_Auto_Lod.csproj
+Humanoid_Auto_Lod.sln
+UnityPackageManager/manifest.json
+.vs/
+Temp/
